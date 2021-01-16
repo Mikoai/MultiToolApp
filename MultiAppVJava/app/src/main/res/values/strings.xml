@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">MultiAppVJava</string>
+    <string name="notes">Notes</string>
+    <string name="reminder">Reminder</string>
+    <string name="app3">Contacts</string>
+    <string name="app4">Media Center</string>
+
+    <string name="notesSearch">Search your notes</string>
+    <string name="notesMsg">Add your first note!</string>
+    <string name="notes_title">Enter title</string>
+    <string name="notes_subtitle">Enter subtitle</string>
+    <string name="notes_text">Enter note description</string>
+    <string name="title_activity_create_note">CreateNote</string>
+
+    <string name="remindersSearch">Search your reminders</string>
+    <string name="remindersMsg">Add your first reminder!</string>
+    <string name="reminders_title">Enter title</string>
+    <string name="reminders_dateTime">Enter date and time</string>
+    <string name="reminders_text">Add a note</string>
+    <string name="title_activity_create_reminder">CreateReminder</string>
+
+    <string name="contactsSearch">Search your contacts</string>
+    <string name="contactsMsg">Add your first contact!</string>
+    <string name="contacts_title">Enter title</string>
+    <string name="contacts_dateTime">Enter date and time</string>
+    <string name="contacts_text">Add a contact</string>
+    <string name="contacts_name">Name</string>
+    <string name="contacts_nr">Phone number</string>
+    <string name="contacts_email">Email</string>
+    <string name="contacts_male">Male</string>
+    <string name="contacts_female">Female</string>
+    <string name="title_activity_create_contact">CreateContact</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="title_activity_reminder">Reminder</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_contacts">Contacts</string>
+</resources>
