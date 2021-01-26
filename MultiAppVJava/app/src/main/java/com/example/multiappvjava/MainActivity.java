@@ -38,10 +38,10 @@ public class MainActivity extends AppCompatActivity {
             startActivity(intent);
         });
 
-//        contactBtn.setOnClickListener(v -> {
-//            Intent intent = new Intent(this, Media.class);
-//            startActivity(intent);
-//        });
+        mediaBtn.setOnClickListener(v -> {
+            Intent intent = new Intent(this, MediaCenter.class);
+            startActivity(intent);
+        });
 
     }
 }
