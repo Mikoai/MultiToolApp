@@ -7,4 +7,4 @@ Reminders manager - add, edit, delete and search your reminders //appear in form
 
 Phonebook - add, edit, delete and search your contacts, set custom image for contact and make call directly form app
 
-Media center - //TODO
+Media center - drawing tool, making delayed (5s) photos //TODO: Add Music Player
